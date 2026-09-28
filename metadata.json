@@ -1,0 +1,6 @@
+{
+  "name": "Artboard Template Studio",
+  "description": "Professional 15799 × 6599 px multi-artboard template designer and lossless SVG, 300 DPI PNG, and maximum-quality JPEG exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
